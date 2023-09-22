@@ -8,7 +8,7 @@ In this repository only magnetization files smaller than 100 MB are already stor
 ## Way 1: Simulate Data
 Install MicMag2 and run all the simulation scripts (this may take some time). The scripts names are all  "Run_*ipynb" notebook. 
 ## Way 2: Get Data from repository
-You can download all necessarx data
+You can download all necessary data from the Zenodo repository.
 
 # 2. How To: Generate plots
 Once you have all data present, you can rerun all evaluation scripts "Evaluate*.ipynb" to obtain all Figures from the manuscript
