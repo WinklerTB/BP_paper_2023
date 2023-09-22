@@ -5,4 +5,4 @@ matplotlib==3.4.3
 glob
 natsort
 tqdm
-##MicMag2 needed, can be found here:
+##MicMag2 needed, can be found here: https://github.com/WinklerTB/MicMag2
